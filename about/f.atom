@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mostaphasabri.com</id>
+    <title>FAQ-WordPress</title>
+    <updated>2021-01-05T09:29:10Z</updated>
+    <generator>FAQ-WordPress</generator>
+    <author>
+        <name>FAQ-WordPress</name>
+    </author>
+    <link rel="alternate" href="https://mostaphasabri.com"/>
+    <link rel="self" href="https://mostaphasabri.com/about/f"/>
+    <subtitle>FAQ-WordPress</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Embed Custom HTML, CSS, JS]]></title>
+        <id>embed-custom-html-css-js</id>
+        <link href="https://mostaphasabri.com/about/f/embed-custom-html-css-js">
+        </link>
+        <updated>2021-01-05T09:29:10Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0fc5a12d-f3e4-46ee-89ae-4a4ce1cf5b4e/kinsta-hosting-og-image.png"/><p>Sharing content is a fairly common practice. However, featuring another creator’s content on your site has potential legal ramifications, while hosting large files such as videos can hurt your site’s performance. Fortuna...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW GUTENBERG 2021]]></title>
+        <id>new-gutenberg-2021</id>
+        <link href="https://mostaphasabri.com/about/f/new-gutenberg-2021">
+        </link>
+        <updated>2021-01-04T06:46:24Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0fc5a12d-f3e4-46ee-89ae-4a4ce1cf5b4e/Wwordpress1.jpg/:/cr=t:14.79%25,l:14.79%25,w:70.42%25,h:70.42%25"/><p>We took a poll. Most people say that the only people out there who know your IP address is your Internet Service Provider...the Cox Cables and Verizons of the world.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why WordPress]]></title>
+        <id>why-wordpress</id>
+        <link href="https://mostaphasabri.com/about/f/why-wordpress">
+        </link>
+        <updated>2021-01-03T08:58:23Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0fc5a12d-f3e4-46ee-89ae-4a4ce1cf5b4e/wpPC4.jpg"/><p>You need to understand this:</p>]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>FAQ-WordPress</title>
+        <link>https://mostaphasabri.com</link>
+        <description>FAQ-WordPress</description>
+        <lastBuildDate>Tue, 05 Jan 2021 09:29:10 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>FAQ-WordPress</generator>
+        <atom:link href="https://mostaphasabri.com/about/f" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Embed Custom HTML, CSS, JS]]></title>
+            <link>https://mostaphasabri.com/about/f/embed-custom-html-css-js</link>
+            <guid>https://mostaphasabri.com/about/f/embed-custom-html-css-js</guid>
+            <pubDate>Tue, 05 Jan 2021 09:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0fc5a12d-f3e4-46ee-89ae-4a4ce1cf5b4e/kinsta-hosting-og-image.png"/><p>Sharing content is a fairly common practice. However, featuring another creator’s content on your site has potential legal ramifications, while hosting large files such as videos can hurt your site’s performance. Fortuna...</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NEW GUTENBERG 2021]]></title>
+            <link>https://mostaphasabri.com/about/f/new-gutenberg-2021</link>
+            <guid>https://mostaphasabri.com/about/f/new-gutenberg-2021</guid>
+            <pubDate>Mon, 04 Jan 2021 06:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0fc5a12d-f3e4-46ee-89ae-4a4ce1cf5b4e/Wwordpress1.jpg/:/cr=t:14.79%25,l:14.79%25,w:70.42%25,h:70.42%25"/><p>We took a poll. Most people say that the only people out there who know your IP address is your Internet Service Provider...the Cox Cables and Verizons of the world.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Why WordPress]]></title>
+            <link>https://mostaphasabri.com/about/f/why-wordpress</link>
+            <guid>https://mostaphasabri.com/about/f/why-wordpress</guid>
+            <pubDate>Sun, 03 Jan 2021 08:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/0fc5a12d-f3e4-46ee-89ae-4a4ce1cf5b4e/wpPC4.jpg"/><p>You need to understand this:</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
